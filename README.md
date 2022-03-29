@@ -1,13 +1,13 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Chandrika Deb</h1>
-<h3 align="center">git commit -m "Hello, I'm a Software Developer at Amdocs"</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Vijay Gupta</h1>
+<h3 align="center">git commit -m "Hello, I'm a ML/AI Developer"</h3>
 
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
 
-![Banner](https://user-images.githubusercontent.com/29686102/122269982-7af63100-cefb-11eb-8ea0-b7a53bdf1cb9.png)
+![Banner]
 
-<p align="left"> <a href="https://twitter.com/chandrikadeb7" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Young_VJ" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
 
 ### Liked my GitHub:question::point_right: [Sponsor me a Dollar](https://t.co/z1ya8nt5mT?amp=1) 💰 💵 :sparkles:
 
