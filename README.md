@@ -3,11 +3,11 @@
 
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrikadeb7&label=Profile%20views&color=0e75b6&style=flat" alt="chandrikadeb7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay2020pc&label=Profile%20views&color=0e75b6&style=flat" alt="vijay2020pc" /> </p>
 
 ![Banner]
 
-<p align="left"> <a href="https://twitter.com/Young_VJ" target="blank"><img src="https://img.shields.io/twitter/follow/chandrikadeb7?logo=twitter&style=for-the-badge" alt="chandrikadeb7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Young_VJ" target="blank"><img src="https://img.shields.io/twitter/follow/Young_VJ?logo=twitter&style=for-the-badge" alt="Young_VJ" /></a> </p>
 
 ### Liked my GitHub:question::point_right: [Sponsor me a Dollar](https://t.co/z1ya8nt5mT?amp=1) 💰 💵 :sparkles:
 
