@@ -11,15 +11,13 @@
 
 ### Liked my GitHub:question::point_right: [Sponsor me a Dollar](https://t.co/z1ya8nt5mT?amp=1) 💰 💵 :sparkles:
 
-- 👨‍💻 All about me is at [My Website](https://chandrikadeb7.github.io/)
+- 👨‍💻 All about me is at [My Website]()
 
-- 📝 Sometimes I write articles on [Medium](https://chandrikadeb7.medium.com/)
+- 📝 Sometimes I write articles on [Medium]()
 
 - 💬 Ask me about ``` var topics = [ "Java", "Spring", "Python", "CSS" ] ```
 
-- 📂 Purchase Face Mask Detection Report and Slides on [Gumroad](https://gum.co/GetFaceMask)
-
-- 📫 How to reach me **chandrikadeb7@gmail.com**
+- 📫 How to reach me **vijaygp2017@gmail.com**
 
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
 
