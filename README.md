@@ -22,9 +22,9 @@
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Y75Zgdc_w8EoL7C18YgXM5iTFUIj5c3i/view?usp=sharing)
 
 ### What are my featured projects:question::rocket:
-<code>[100DaysOfCode](https://github.com/chandrikadeb7/100DaysOfCode)</code>:hourglass:     
-<code>[Face Mask Detection](https://github.com/chandrikadeb7/Face-Mask-Detection)</code>:mask:  
-<code>[GirlScript Twitter Bot](https://github.com/chandrikadeb7/Girlscript-Twitter-Bot)</code>:robot:     
+<code>[100DaysOfCode](https://github.com/vijay2020pc/100-days-of-code)</code>:hourglass:     
+<code>[Face Mask Detection](https://github.com/vijay2020pc/Mask-Detection-using-opencv)</code>:mask:  
+<code>[GirlScript Twitter Bot](https://github.com/vijay2020pc/Recommendation-System)</code>:robot:     
 
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
