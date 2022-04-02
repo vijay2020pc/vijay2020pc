@@ -24,7 +24,7 @@
 ### What are my featured projects:question::rocket:
 <code>[100DaysOfCode](https://github.com/vijay2020pc/100-days-of-code)</code>:hourglass:     
 <code>[Face Mask Detection](https://github.com/vijay2020pc/Mask-Detection-using-opencv)</code>:mask:  
-<code>[GirlScript Twitter Bot](https://github.com/vijay2020pc/Recommendation-System)</code>:robot:     
+<code>[Recommendation System](https://github.com/vijay2020pc/Recommendation-System)</code>:robot:     
 
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
