@@ -15,7 +15,7 @@
 
 - 📝 Sometimes I write articles on [Medium]()
 
-- 💬 Ask me about ``` var topics = [ "Java", "Spring", "Python", "CSS" ] ```
+- 💬 Ask me about ``` var topics = [ "Python","c++","HtML","CSS" ] ```
 
 - 📫 How to reach me **vijaygp2017@gmail.com**
 
