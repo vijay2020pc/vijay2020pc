@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vijaygp2017@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing)
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Y75Zgdc_w8EoL7C18YgXM5iTFUIj5c3i/view?usp=sharing)
 
 ### What are my featured projects:question::rocket:
 <code>[100DaysOfCode](https://github.com/chandrikadeb7/100DaysOfCode)</code>:hourglass:     
