@@ -43,8 +43,8 @@
 <a href="https://codepen.io/chandrikadeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chandrikadeb7" height="30" width="40" /></a>
 <a href="https://dev.to/chandrikadeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/chandrikadeb7/github-profile-readme-generator/chandrikadeb7-devlogo/src/images/icons/Social/devto.svg" alt="chandrikadeb7" height="30" width="40" /></a>
 <a href="https://twitter.com/chandrikadeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandrikadeb7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chandrika-deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrika-deb" height="30" width="40" /></a>
-<a href="https://instagram.com/chandrikadeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandrikadeb7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vijay-gupta-2b66671b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrika-deb" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_young_vj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandrikadeb7" height="30" width="40" /></a>
 <a href="https://medium.com/@chandrikadeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chandrikadeb7" height="30" width="40" /></a>
 </p>
 
