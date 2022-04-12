@@ -32,7 +32,7 @@
 - [Using MDX with Docz Has Never Been This Easy!]()
 - [How I earned more than $1000 from a side project?]()
 - [How to Create a Kick-ass GitHub Profile that attracts Top Tech Jobs?]()
-- [IntelliJ Idea tricks that I use daily — Java/Spring MS Handling](https://medium.com/coderbyte/intellij-idea-tricks-that-i-use-daily-java-spring-ms-handling-40bc1239d371?source=rss-5c8e98221095------2)
+- [IntelliJ Idea tricks that I use daily — Java/Spring MS Handling]()
 <!-- BLOG-POST-LIST:END -->
 
 ### What can I help with:question::cyclone:
@@ -40,12 +40,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/chandrikadeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="chandrikadeb7" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="" height="30" width="40" /></a>
 <a href="https://dev.to/vijay2020pc" target="blank"><img align="center" src="https://raw.githubusercontent.com/chandrikadeb7/github-profile-readme-generator/chandrikadeb7-devlogo/src/images/icons/Social/devto.svg" alt="chandrikadeb7" height="30" width="40" /></a>
 <a href="https://twitter.com/Young_VJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandrikadeb7" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vijay-gupta-2b66671b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrika-deb" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_young_vj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandrikadeb7" height="30" width="40" /></a>
-<a href="https://medium.com/@chandrikadeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chandrikadeb7" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
