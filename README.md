@@ -13,7 +13,7 @@
 
 - 👨‍💻 All about me is at [My Website]()
 
-- 📝 Sometimes I write articles on [Medium]()
+- 📝 Sometimes I write articles on [Medium](https://medium.com/@vijaygpt2017)
 
 - 💬 Ask me about ``` var topics = [ "Python","c++","HtML","CSS" ] ```
 
