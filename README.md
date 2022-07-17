@@ -28,11 +28,9 @@
 
 ### Wanna see my blogs:question::fire:
 <!-- BLOG-POST-LIST:START -->
-- [SAP Testing Best Practices]()
-- [Using MDX with Docz Has Never Been This Easy!]()
-- [How I earned more than $1000 from a side project?]()
-- [How to Create a Kick-ass GitHub Profile that attracts Top Tech Jobs?]()
-- [IntelliJ Idea tricks that I use daily — Java/Spring MS Handling]()
+- [Difference Between Machine Learning and Data Science](https://medium.com/@vijaygpt2017/difference-between-machine-learning-and-data-science-1b8414bed2d3)
+- [Data Scientist Roadmap](https://medium.com/@vijaygpt2017/data-scientist-roadmap-435907d5c8e9)
+
 <!-- BLOG-POST-LIST:END -->
 
 ### What can I help with:question::cyclone:
