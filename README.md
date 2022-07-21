@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/Young_VJ" target="blank"><img src="https://img.shields.io/twitter/follow/Young_VJ?logo=twitter&style=for-the-badge" alt="Young_VJ" /></a> </p>
 
-### Liked my GitHub:question::point_right: [Sponsor me a Dollar](https://t.co/z1ya8nt5mT?amp=1) 💰 💵 :sparkles:
+
 
 - 👨‍💻 All about me is at [My Website]()
 
